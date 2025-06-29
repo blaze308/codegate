@@ -1,11 +1,11 @@
 {
-    "name": "codegate",
-    "short_name": "codegate",
+    "name": "CodeGate",
+    "short_name": "CodeGate",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#FFFFFF",
+    "theme_color": "#00A4FF",
+    "description": "Modern Event Management and QR Code Ticketing System",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
