@@ -48,7 +48,7 @@ CodeGate is a modern event management and QR code-based ticketing system built w
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/codegate.git
+git clone https://github.com/blaze308/codegate.git
 cd codegate
 ```
 
@@ -127,14 +127,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🐛 Known Issues
 
-- Check the [Issues](https://github.com/yourusername/codegate/issues) page for known issues and feature requests
+- Check the [Issues](https://github.com/blaze308/codegate/issues) page for known issues and feature requests
 - Feel free to create new issues if you find any bugs
 
 ## 📞 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Your Name - [@blaze308](https://twitter.com/blaze308)
 
-Project Link: [https://github.com/yourusername/codegate](https://github.com/yourusername/codegate)
+Project Link: [https://github.com/blaze308/codegate](https://github.com/blaze308/codegate)
 
 ---
 
